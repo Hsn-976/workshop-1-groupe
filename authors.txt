@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Fabien RozarAhmed Nizar
-=======
 Fabien Rozar
-HOUSSENI Elamine 
->>>>>>> 27819c9611b82cb7c7f8e381e1e9c083e04133d9
+Ahmed Nizar
+HOUSSENI Elamine
